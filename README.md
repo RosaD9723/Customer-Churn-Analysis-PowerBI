@@ -102,3 +102,8 @@ The report includes interactive filters and visual interactions that allow users
 ## How to View
 
 Download the `.pbix` file and open it with Microsoft Power BI Desktop to explore the full interactive report.
+
+## Data Source
+
+The dataset and case study are based on a DataCamp project. The analysis, data visualization, dashboard design, and Power BI implementation were completed as part of my own portfolio project.
+The original case study provided the business context and dataset, while this project focuses on applying Power BI, DAX, data modeling, and visualization techniques to explore customer churn.
