@@ -53,7 +53,7 @@ Analyzes churn in relation to international activity and geographical distributi
 
 Explores the relationship between account length, contract type, payment method, and churn.
 
-![Contract Type](screenshots/contact_type.png)
+![Contract Type](screenshots/contract_type.png)
 
 ### Age Groups
 
